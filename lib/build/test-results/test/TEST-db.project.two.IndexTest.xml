@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="db.project.two.IndexTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-03T20:57:45" hostname="Vatsals-MacBook-Air.local" time="0.0">
+  <properties/>
+  <testcase name="testMethod" classname="db.project.two.IndexTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
