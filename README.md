@@ -1,11 +1,5 @@
 # <b>CSCI 6370 : Database Management - Term Project</b>
 
-## <b>List of Team Members:-</b>
-- Thakkar Vatsal
-- Deval Aditya
-- Kandula Punith
-
-
 #
 
 ## <b>How To Run and Compile:</b>
